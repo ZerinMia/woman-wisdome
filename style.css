@@ -28,9 +28,35 @@ body{
         }
         .tomato-font{
             font-size: 40px;
-            color: tomato;
+            color:  orangered;
             text-align: center;
         }
+        .wing{
+            display: flex;
+        width:75%;
+        margin:  5%;
+        padding-right: 120%;
+        padding-left: 10px;
+        }
+        .lemon{color: yellowgreen;}
+        .yellow{color: rgb(13, 207, 233)}
+        .right-side{
+            padding-left: 10%;
+        }
+        .left{
+            padding-right: 10%;  
+        }
+    .right{
+        padding-right: 10%;
+        padding-top: 10%;
+    }
+    .font{
+        font-size: small;}
+    .vote{
+        text-align: center;
+        color: orange;
+    }    
+      
     
     
     
