@@ -51,11 +51,15 @@ body{
         padding-top: 10%;
     }
     .font{
-        font-size: small;}
+        font-size: medium;}
     .vote{
         text-align: center;
         color: orange;
-    }    
+    }   
+    .education{
+        width: 250px;
+        border: 1px solid gray;
+    } 
       
     
     
